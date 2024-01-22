@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Major = styled.span`
   color: #515151;
-  font-family: AppleSDGothicNeoSB00;
+  font-family: 'pretendard';
   font-size: 28px;
   font-style: normal;
   font-weight: 400;
