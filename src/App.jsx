@@ -1,7 +1,11 @@
+import GlobalStyles from './public/Globalstyle'
+import Login from './pages/LoginPage/Login';
+
 function App() {
   return (
     <div className="App">
-      안녕
+      <GlobalStyles/>
+      <Login/>
     </div>
   );
 }
