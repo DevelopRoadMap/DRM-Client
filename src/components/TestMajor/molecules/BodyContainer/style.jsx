@@ -1,10 +1,11 @@
 import styled from 'styled-components';
 
-export const BackgroundWrapper = styled.div`
+export const Wrapper = styled.div`
+  display: flex;
   flex-direction: column;
+  gap: 110px;
+  justify-content: center;
   align-items: center;
   height: 100vh;
-  display: flex;
-  background: #000014;
   position: relative;
-` 
+`;
