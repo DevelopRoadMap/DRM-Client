@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const HeaderContainer = styled.div`
   display: flex;
   width: 100%;
-  height: 120px;
+  height: 80px;
   align-items: center;
   justify-content: space-evenly;
   flex-shrink: 0;
@@ -37,6 +37,6 @@ font-weight: 500;
 line-height: 130%; /* 23.4px */
 `
 export const ProfileImg = styled.img`
-  width: 46px;
-  height: 46px;
+  width: 36px;
+  height: 36px;
 `;
